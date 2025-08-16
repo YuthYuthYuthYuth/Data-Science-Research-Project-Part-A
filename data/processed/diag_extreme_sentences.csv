@@ -1,0 +1,41 @@
+order,location,sent_id,tokens_scored,mean_val,kind
+1,London,10,1,-1,top_negative
+1,London,21,1,-1,top_negative
+1,London,39,2,-1,top_negative
+1,London,82,1,-1,top_negative
+1,London,140,1,-1,top_negative
+1,London,142,1,-1,top_negative
+1,London,163,1,-1,top_negative
+1,London,173,1,-1,top_negative
+1,London,192,1,-1,top_negative
+1,London,202,2,-1,top_negative
+2,Suez/Aden,28,1,-1,top_negative
+3,London,7,3,-1,top_negative
+3,London,30,3,-1,top_negative
+3,London,33,1,-1,top_negative
+4,Bombay,15,1,-1,top_negative
+16,San Francisco,188,2,-1.2000000000000002,top_negative
+19,London,207,2,-1.2000000000000002,top_negative
+19,London,81,1,-1.2800000000000002,top_negative
+11,San Francisco,74,1,-1.6,top_negative
+17,New York,75,1,-1.6,top_negative
+1,London,240,1,1.6,top_positive
+4,Bombay,188,1,1.6,top_positive
+9,Hong Kong,145,1,1.6,top_positive
+16,San Francisco,62,1,1.6,top_positive
+19,London,43,1,1.6,top_positive
+9,Hong Kong,91,3,1.528888888888889,top_positive
+10,Yokohama/Japan,181,1,1.3866666666666667,top_positive
+13,San Francisco,48,2,1.3,top_positive
+19,London,143,2,1.3,top_positive
+4,Bombay,151,1,1.2800000000000002,top_positive
+1,London,186,2,1.1933333333333334,top_positive
+10,Yokohama/Japan,3,2,1.15,top_positive
+9,Hong Kong,235,3,1.1288888888888888,top_positive
+9,Hong Kong,191,4,1.1133333333333333,top_positive
+4,Bombay,153,3,1.1,top_positive
+18,Atlantic/Liverpool,82,3,1.0733333333333333,top_positive
+15,Atlantic/Liverpool,40,4,1.05,top_positive
+18,Atlantic/Liverpool,168,4,1.03,top_positive
+12,Yokohama/Japan,20,4,1.025,top_positive
+1,London,63,3,1.011111111111111,top_positive
